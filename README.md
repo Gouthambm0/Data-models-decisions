@@ -43,4 +43,4 @@ This is a powerful intersection of logic, probability, and impact. It helps me t
 - Explore optimization libraries later for higher complexity cases
 
 ---
-Built by Gowtham | [@gouthambm0](https://twitter.com/gouthambm0) | Systems, life, and logic
+Built by Goutham | [@gouthambm0](https://twitter.com/gouthambm0) | Systems, life, and logic
