@@ -1,28 +1,16 @@
-# Data, Models, and Decisions (MIT Sloan Inspired)
+# Probabilistic Decision-Making Framework
 
-This repository contains my learning journey and code experiments based on the foundational topics covered in MIT Sloan's "Data, Models, and Decisions" course. It includes decision tree modeling, probability-based reasoning, and simulations for business and operational decisions.
+### 🎯 The Goal
+As a doctor transitioning into technology, my primary focus is on systems thinking and clear decision-making under uncertainty. I built this project to move beyond theory and create a functional model to assess probabilistic tradeoffs, helping me to understand optimization through direct visualization.
 
-##  Current Focus
-- Building decision trees and calculating Expected Monetary Value (EMV)
-- Exploring probabilistic decision-making
-- Creating simulation models based on case studies (e.g., fisheries, portfolio optimization)
+### 📜 Project Description
+This repository contains `decisiontree.py`,`decisiontree_3dplot.py` a Python script that builds a 3D decision model. It is designed to analyze a scenario (like recruitment) by modeling Expected Monetary Values (EMVs) and mapping out all branch conditions and their potential outcomes.
 
-##  Contents
-### 1. `decisiontree.py`
-A simple custom-built decision tree model from scratch using dictionaries to simulate decision branches, outcomes, and expected value calculations.
-
-**Features:**
-- Node-based branching with EMV calculation
-- Modular structure for dynamic input
-
-**Learning Outcome:**
-Helped solidify the link between structured logic and data-driven choices. Next step: connect with uncertainty simulations.
-
-### 2. `decisiontree_3dplot.py`
-Attempt to visualize the decision tree in 3D using matplotlib. Took 2 hours to debug and understand.
-
-**Learning Outcome:**
-Visual complexity helped refine intuition about decision surfaces and nested contingencies.
+### 💡 Key Concepts Solidified
+* **Decision Theory:** Applying formal models to complex, real-world tradeoffs.
+* **Optimization:** Visually identifying the most optimal path in a decision tree.
+* **Probabilistic Modeling:** Translating uncertainty into a quantitative Python model.
+* **Data Visualization:** Gaining insights not just from numbers, but from the structure of the model itself.
 
 ##  Upcoming Additions
 - Case modeling from simulation chapters: portfolio optimization, restaurant queue simulation
